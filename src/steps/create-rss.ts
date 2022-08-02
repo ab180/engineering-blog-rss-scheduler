@@ -21,7 +21,7 @@ export const createRss = async (posts: Post[]) => {
     });
   });
 
-  const xml = Feed.xml();
+  const xml = Feed.xml({ indent: true });
   await fs.writeFile(PATH.RSS, xml);
 
   return xml;

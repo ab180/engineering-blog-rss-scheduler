@@ -4,9 +4,18 @@
         <description><![CDATA[에어브릿지를 만드는 개발자들의 경험과 기록을 꾸준히 기록하는 공간입니다]]></description>
         <link>https://engineering.ab180.co</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 10 Aug 2022 15:01:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Aug 2022 15:01:20 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright 2015- AB180 Inc. All rights reserved.]]></copyright>
         <managingEditor><![CDATA[engineering-blog@ab180.co]]></managingEditor>
+        <item>
+            <title><![CDATA[‘진짜로 잘 만든’ 프로덕트 만들기 - QA Engineer 인터뷰]]></title>
+            <description><![CDATA[Airbridge가 ‘잘’ 만든 제품으로 사용자에게 전달되도록 하는 QA Engineer의 커리어 이야기를 들어보았습니다.]]></description>
+            <link>https://engineering.ab180.co/stories/qa-engineer-interview</link>
+            <guid isPermaLink="true">https://engineering.ab180.co/stories/qa-engineer-interview</guid>
+            <dc:creator><![CDATA[최소은(Soeun Choi) ()]]></dc:creator>
+            <pubDate>Wed, 10 Aug 2022 15:00:00 GMT</pubDate>
+            <enclosure url="https://oopy.lazyrockets.com/api/v2/notion/image?src=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F5fe2b076-5c72-489a-9dd2-356b03dea99c%2Fbanner_qa-engineer-interview_1800-630.png&amp;blockId=31186065-724f-48e4-9e9e-8f99e7a6ff9f&amp;width=2400" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Player Unknown’s Bug: 원인 모를 문제를 기록하면 성장할 수 있나요?]]></title>
             <description><![CDATA[문제를 기록하고 공유했더니 정보 공유 문화가 팀에 정착하기 시작했습니다.]]></description>

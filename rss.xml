@@ -4,17 +4,17 @@
         <description><![CDATA[에어브릿지를 만드는 개발자들의 경험과 기록을 꾸준히 기록하는 공간입니다]]></description>
         <link>https://engineering.ab180.co</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 11 Aug 2022 15:01:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Aug 2022 15:01:11 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright 2015- AB180 Inc. All rights reserved.]]></copyright>
         <managingEditor><![CDATA[engineering-blog@ab180.co]]></managingEditor>
         <item>
             <title><![CDATA[‘진짜로 잘 만든’ 프로덕트 만들기 - QA Engineer 인터뷰]]></title>
-            <description><![CDATA[Airbridge가 ‘잘’ 만든 제품으로 사용자에게 전달되도록 하는 QA Engineer의 커리어 이야기를 들어보았습니다.]]></description>
+            <description><![CDATA[Airbridge가 ‘잘’ 만든 제품으로 전달되도록 하는 QA Engineer의 커리어 이야기를 들어보았습니다.]]></description>
             <link>https://engineering.ab180.co/stories/qa-engineer-interview</link>
             <guid isPermaLink="true">https://engineering.ab180.co/stories/qa-engineer-interview</guid>
             <dc:creator><![CDATA[최소은(Soeun Choi) ()]]></dc:creator>
             <pubDate>Wed, 10 Aug 2022 15:00:00 GMT</pubDate>
-            <enclosure url="https://oopy.lazyrockets.com/api/v2/notion/image?src=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F5fe2b076-5c72-489a-9dd2-356b03dea99c%2Fbanner_qa-engineer-interview_1800-630.png&amp;blockId=31186065-724f-48e4-9e9e-8f99e7a6ff9f&amp;width=2400" length="0" type="image/png"/>
+            <enclosure url="https://static.airbridge.io/images/2022_engineering_base/thumbnail/qa-engineer-interview.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[Player Unknown’s Bug: 원인 모를 문제를 기록하면 성장할 수 있나요?]]></title>
@@ -45,12 +45,12 @@
         </item>
         <item>
             <title><![CDATA[하루 100억 트래픽도 끄떡없는 시스템을 만드는 팀으로 - Data Pipeline Team 인터뷰]]></title>
-            <description><![CDATA[AB180이 직접 개발한 마케팅 성과분석 소프트웨어 에어브릿지는 200개가 넘는 고객사의 마케팅 데이터를 실시간으로 수집, 처리하고 있습니다. 비즈니스의 성장에 따라 분당 100만건, 하루 10억건이 넘는 대용량 이벤트 데이터가 들어오고 있고, 트래픽은 지금도 빠르게 증가하고 있죠.]]></description>
+            <description><![CDATA[Airbridge 개발팀에서 월300억 이벤트 데이터의 파이프라인을 책임지는 Data Pipeline 팀을 만나보았습니다.]]></description>
             <link>https://engineering.ab180.co/stories/data-pipeline-team-interview</link>
             <guid isPermaLink="true">https://engineering.ab180.co/stories/data-pipeline-team-interview</guid>
             <dc:creator><![CDATA[최소은 (Soeun Choi) (https://recruit.ab180.co)]]></dc:creator>
             <pubDate>Thu, 26 May 2022 15:00:00 GMT</pubDate>
-            <enclosure url="https://oopy.lazyrockets.com/api/v2/notion/image?src=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F4ee7fc69-cbe5-432e-8772-e9d2d84e82ae%2Fbanner_data-pipeline-team-interview_1800-630.png&amp;blockId=73ab2305-1890-4325-a09e-029ab808351d&amp;width=2400" length="0" type="image/png"/>
+            <enclosure url="https://static.airbridge.io/images/2022_engineering_base/banner_data-pipeline-team-interview_1200-628.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[Airbridge API 개발팀의 Monorepo 도입기]]></title>

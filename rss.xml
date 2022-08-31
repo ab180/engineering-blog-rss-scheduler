@@ -4,9 +4,18 @@
         <description><![CDATA[에어브릿지를 만드는 개발자들의 경험과 기록을 꾸준히 기록하는 공간입니다]]></description>
         <link>https://engineering.ab180.co</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 30 Aug 2022 15:01:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2022 15:01:14 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright 2015- AB180 Inc. All rights reserved.]]></copyright>
         <managingEditor><![CDATA[engineering-blog@ab180.co]]></managingEditor>
+        <item>
+            <title><![CDATA[Programmable Realtime Webhoook System]]></title>
+            <description><![CDATA[Postback 이야기]]></description>
+            <link>https://engineering.ab180.co/stories/programmable-realtime-webhook-system</link>
+            <guid isPermaLink="true">https://engineering.ab180.co/stories/programmable-realtime-webhook-system</guid>
+            <dc:creator><![CDATA[정주홍 (Juhong Jung) (https://github.com/toughrogrammer)]]></dc:creator>
+            <pubDate>Tue, 30 Aug 2022 15:00:00 GMT</pubDate>
+            <enclosure url="https://oopy.lazyrockets.com/api/v2/notion/image?src=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fe7e3d41b-4681-400b-91f2-e2ba3a5c75dd%2Fairbridge-streams.png&amp;blockId=9a2d4828-318e-4b36-a606-37b3ad416490&amp;width=2400" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[‘진짜로 잘 만든’ 프로덕트 만들기 - QA Engineer 인터뷰]]></title>
             <description><![CDATA[Airbridge가 ‘잘’ 만든 제품으로 전달되도록 하는 QA Engineer의 커리어 이야기를 들어보았습니다.]]></description>

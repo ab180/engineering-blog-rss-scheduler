@@ -4,9 +4,18 @@
         <description><![CDATA[에어브릿지를 만드는 개발자들의 경험과 기록을 꾸준히 기록하는 공간입니다]]></description>
         <link>https://engineering.ab180.co</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 12 Sep 2022 15:01:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Sep 2022 15:01:17 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright 2015- AB180 Inc. All rights reserved.]]></copyright>
         <managingEditor><![CDATA[engineering-blog@ab180.co]]></managingEditor>
+        <item>
+            <title><![CDATA[satisfies: 안전한 업캐스팅을 통해 더 안전한 코드작성을 도와주는 새로운 키워드(TypeScript 4.9)]]></title>
+            <description><![CDATA[TypeScript 4.9 에 추가된 satisfies 키워드가 왜 필요하고 어떤 문제를 해결하는지에 대해 서술합니다.]]></description>
+            <link>https://engineering.ab180.co/stories/satisfies-safe-upcasting</link>
+            <guid isPermaLink="true">https://engineering.ab180.co/stories/satisfies-safe-upcasting</guid>
+            <dc:creator><![CDATA[최수범 (Subeom Choi) (https://github.com/0xWOF)]]></dc:creator>
+            <pubDate>Mon, 12 Sep 2022 15:00:00 GMT</pubDate>
+            <enclosure url="https://oopy.lazyrockets.com/api/v2/notion/image?src=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F66039ba6-43a2-43fb-bc47-9edf7d130ee5%2F220913_dev-blog_banner_satisfies_3000-1200.png&amp;blockId=8e7bdeba-6de9-4246-b1be-7188466d5fa2&amp;width=2400" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Programmable Realtime Webhoook System]]></title>
             <description><![CDATA[Postback 이야기]]></description>

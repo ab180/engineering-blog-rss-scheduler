@@ -4,7 +4,7 @@
         <description><![CDATA[에어브릿지를 만드는 개발자들의 경험과 기록을 꾸준히 기록하는 공간입니다]]></description>
         <link>https://engineering.ab180.co</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 16 Nov 2022 15:01:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Nov 2022 15:01:15 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright 2015- AB180 Inc. All rights reserved.]]></copyright>
         <managingEditor><![CDATA[engineering-blog@ab180.co]]></managingEditor>
         <item>
@@ -204,6 +204,14 @@
             <dc:creator><![CDATA[김효준 (Hyojun Kim) (https://github.com/therne)]]></dc:creator>
             <pubDate>Wed, 10 Apr 2019 15:00:00 GMT</pubDate>
             <enclosure url="https://oopy.lazyrockets.com/api/v2/notion/image?src=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F062ee149-8604-4bfe-ac59-b401df71c011%2FArtboard_Copy_602.jpg&amp;blockId=fe41b093-efba-4471-9374-9a027cd08a2b&amp;width=2400" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Airpage CSR: 한달에 400억번 요청되는 페이지 크기 60% 줄이기]]></title>
+            <description><![CDATA[한달에 400억번 요청되는 광고링크의 중계페이지를 2.1KB 에서 0.9KB 로 줄인 개발경험에 대해서 공유드립니다.]]></description>
+            <link>https://engineering.ab180.co/stories/airpage-csr</link>
+            <guid isPermaLink="true">https://engineering.ab180.co/stories/airpage-csr</guid>
+            <dc:creator><![CDATA[최수범 (Subeom Choi) (https://github.com/0xwof)]]></dc:creator>
+            <enclosure url="https://oopy.lazyrockets.com/api/v2/notion/image?src=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F99b4bca1-fc27-4c34-96e4-225fc1fb33d6%2FArtboard_Copy_602.jpg&amp;blockId=0b600ca7-34a3-463c-beea-c39666ff0048&amp;width=2400" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

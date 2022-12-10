@@ -4,7 +4,7 @@
         <description><![CDATA[에어브릿지를 만드는 개발자들의 경험과 기록을 꾸준히 기록하는 공간입니다]]></description>
         <link>https://engineering.ab180.co</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 09 Dec 2022 15:01:19 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Dec 2022 15:01:09 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright 2015- AB180 Inc. All rights reserved.]]></copyright>
         <managingEditor><![CDATA[engineering-blog@ab180.co]]></managingEditor>
         <item>
@@ -123,6 +123,15 @@
             <dc:creator><![CDATA[이찬희 (Chanhee Lee) (https://github.com/hiddenest)]]></dc:creator>
             <pubDate>Tue, 15 Mar 2022 15:00:00 GMT</pubDate>
             <enclosure url="https://oopy.lazyrockets.com/api/v2/notion/image?src=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F0d642a8d-f582-46b1-850c-3a193776d402%2FFrame_142.jpg&amp;blockId=1529eee4-e31b-48eb-8280-394f25067674&amp;width=2400" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Airbridge Data Pipeline에서 Serverless 활용 사례]]></title>
+            <description><![CDATA[Airbridge Data Pipeline에서 Serverless framework를 어떻게 활용하고 있는지 알아봅니다.]]></description>
+            <link>https://engineering.ab180.co/stories/abr-backend-talent</link>
+            <guid isPermaLink="true">https://engineering.ab180.co/stories/abr-backend-talent</guid>
+            <dc:creator><![CDATA[정주홍 (Juhong Jung) (https://github.com/toughrogrammer)]]></dc:creator>
+            <pubDate>Mon, 07 Mar 2022 15:00:00 GMT</pubDate>
+            <enclosure url="https://oopy.lazyrockets.com/api/v2/notion/image?src=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fed7d44ec-08e0-4fc8-9d0f-4c3b2871e0b5%2FFrame_141.jpg&amp;blockId=8d6bcb11-e871-4d0f-afd5-d86d32fd64a3&amp;width=2400" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Airbridge Data Pipeline에서 Serverless 활용 사례]]></title>

@@ -4,9 +4,18 @@
         <description><![CDATA[에어브릿지를 만드는 개발자들의 경험과 기록을 꾸준히 기록하는 공간입니다]]></description>
         <link>https://engineering.ab180.co</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 03 Apr 2023 15:01:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Apr 2023 15:01:16 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright 2015- AB180 Inc. All rights reserved.]]></copyright>
         <managingEditor><![CDATA[engineering-blog@ab180.co]]></managingEditor>
+        <item>
+            <title><![CDATA[Yarn 대신 pnpm으로 넘어간 3가지 이유]]></title>
+            <description><![CDATA[패키지 매니저를 바꾸고 1년 동안 사용해보며 든 생각들]]></description>
+            <link>https://engineering.ab180.co/stories/yarn-to-pnpm</link>
+            <guid isPermaLink="true">https://engineering.ab180.co/stories/yarn-to-pnpm</guid>
+            <dc:creator><![CDATA[이찬희 (Chanhee Lee) (https://github.com/hiddenest)]]></dc:creator>
+            <pubDate>Mon, 03 Apr 2023 15:00:00 GMT</pubDate>
+            <enclosure url="https://hashnode.com/utility/r?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1678609041229%2F5e377f4d-8b47-4ce4-97f5-e320ea8d6085.png%3Fw%3D1200%26h%3D630%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp%26fm%3Dpng" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[TrailDB to Ziegel(Cgo to Go)]]></title>
             <description><![CDATA[스토리지 엔진 사용언어를 C/C++ 에서 Go 로 변경한 과정을 소개드립니다.]]></description>

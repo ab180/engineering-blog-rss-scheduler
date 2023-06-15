@@ -4,9 +4,18 @@
         <description><![CDATA[에어브릿지를 만드는 개발자들의 경험과 기록을 꾸준히 기록하는 공간입니다]]></description>
         <link>https://engineering.ab180.co</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 14 Jun 2023 15:01:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Jun 2023 15:01:30 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright 2015- AB180 Inc. All rights reserved.]]></copyright>
         <managingEditor><![CDATA[engineering-blog@ab180.co]]></managingEditor>
+        <item>
+            <title><![CDATA[Luft 성능 리포트 2023.1]]></title>
+            <description><![CDATA[2023년 첫 번째 Luft 성능 리포트입니다.]]></description>
+            <link>https://engineering.ab180.co/stories/luft-performance-report-2023-1</link>
+            <guid isPermaLink="true">https://engineering.ab180.co/stories/luft-performance-report-2023-1</guid>
+            <dc:creator><![CDATA[박재완 (Jaewan Park) (https://github.com/hueypark)]]></dc:creator>
+            <pubDate>Fri, 05 May 2023 15:00:00 GMT</pubDate>
+            <enclosure url="https://oopy.lazyrockets.com/api/v2/notion/image?src=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F23495e11-353b-45a7-ad12-1cf3bf4f8b98%2Fluft.png&amp;blockId=d64e9400-db9a-4201-81df-20e6ad179583&amp;width=2400" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Yarn 대신 pnpm으로 넘어간 3가지 이유]]></title>
             <description><![CDATA[패키지 매니저를 바꾸고 1년 동안 사용해보며 든 생각들]]></description>

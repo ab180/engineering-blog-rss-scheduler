@@ -4,9 +4,18 @@
         <description><![CDATA[에어브릿지를 만드는 개발자들의 경험과 기록을 꾸준히 기록하는 공간입니다]]></description>
         <link>https://engineering.ab180.co</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 13 Jul 2023 15:01:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jul 2023 15:01:15 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright 2015- AB180 Inc. All rights reserved.]]></copyright>
         <managingEditor><![CDATA[engineering-blog@ab180.co]]></managingEditor>
+        <item>
+            <title><![CDATA[적정 엔지니어링으로 검색 속도 10x 빠르게 만들기]]></title>
+            <description><![CDATA[적정 엔지니어링을 통해 성능을 개선한 경험 이야기를 공유합니다.]]></description>
+            <link>https://engineering.ab180.co/stories/improve-performance-with-proper-engineering</link>
+            <guid isPermaLink="true">https://engineering.ab180.co/stories/improve-performance-with-proper-engineering</guid>
+            <dc:creator><![CDATA[하원빈 (Wonbin Ha) (https://github.com/woodimora)]]></dc:creator>
+            <pubDate>Thu, 13 Jul 2023 15:00:00 GMT</pubDate>
+            <enclosure url="https://oopy.lazyrockets.com/api/v2/notion/image?src=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F4cd5b596-9a62-4ad7-a712-ef1e922867cc%2FFrame_1054.jpg&amp;blockId=a8b6e8bb-a1ef-4d47-b34a-90734c8f9dda&amp;width=2400" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Luft 성능 리포트 2023.1]]></title>
             <description><![CDATA[2023년 첫 번째 Luft 성능 리포트입니다.]]></description>

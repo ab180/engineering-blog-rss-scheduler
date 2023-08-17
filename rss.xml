@@ -4,9 +4,18 @@
         <description><![CDATA[에어브릿지를 만드는 개발자들의 경험과 기록을 꾸준히 기록하는 공간입니다]]></description>
         <link>https://engineering.ab180.co</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 16 Aug 2023 15:01:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Aug 2023 15:01:12 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright 2015- AB180 Inc. All rights reserved.]]></copyright>
         <managingEditor><![CDATA[engineering-blog@ab180.co]]></managingEditor>
+        <item>
+            <title><![CDATA[Profiling and Tracing Tips in Go(GopherCon 2023 발표)]]></title>
+            <description><![CDATA[Profiling and Tracing Tips in Go 라는 주제로 GopherCon 2023 에서 발표한 이야기입니다.]]></description>
+            <link>https://engineering.ab180.co/stories/luft-performance-report-2023-1-1</link>
+            <guid isPermaLink="true">https://engineering.ab180.co/stories/luft-performance-report-2023-1-1</guid>
+            <dc:creator><![CDATA[박재완 (Jaewan Park) (https://github.com/hueypark)]]></dc:creator>
+            <pubDate>Tue, 15 Aug 2023 15:00:00 GMT</pubDate>
+            <enclosure url="https://oopy.lazyrockets.com/api/v2/notion/image?src=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fd5fb7fb5-ae65-4d74-af3d-eac791e4caa1%2Fluft.png&amp;blockId=a81f87e8-3fb4-422f-a334-e2f86f0c4294&amp;width=2400" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[적정 엔지니어링으로 검색 속도 10x 빠르게 만들기]]></title>
             <description><![CDATA[적정 엔지니어링을 통해 성능을 개선한 경험 이야기를 공유합니다.]]></description>

@@ -4,9 +4,18 @@
         <description><![CDATA[에어브릿지를 만드는 개발자들의 경험과 기록을 꾸준히 기록하는 공간입니다]]></description>
         <link>https://engineering.ab180.co</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 17 Aug 2023 15:01:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Aug 2023 15:01:10 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright 2015- AB180 Inc. All rights reserved.]]></copyright>
         <managingEditor><![CDATA[engineering-blog@ab180.co]]></managingEditor>
+        <item>
+            <title><![CDATA[Scenario Test: 인수 테스트 자동화로 자신감, 생산성 높이기 (GopherCon 2023 발표)]]></title>
+            <description><![CDATA[Scenario Test: 인수 테스트 자동화로 자신감, 생산성 높이기라는 주제로 GopherCon 2023 에서 발표한 이야기입니다.]]></description>
+            <link>https://engineering.ab180.co/stories/scenario-test</link>
+            <guid isPermaLink="true">https://engineering.ab180.co/stories/scenario-test</guid>
+            <dc:creator><![CDATA[김재원 (Jaewon Kim) (https://github.com/j1king)]]></dc:creator>
+            <pubDate>Wed, 16 Aug 2023 15:00:00 GMT</pubDate>
+            <enclosure url="https://oopy.lazyrockets.com/api/v2/notion/image?src=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F92af436a-5b37-4788-b5db-2391d5fcdf8c%2Fcover.jpg&amp;blockId=993e53e3-91ef-4777-b5af-898f0db24969&amp;width=2400" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Profiling and Tracing Tips in Go(GopherCon 2023 발표)]]></title>
             <description><![CDATA[Profiling and Tracing Tips in Go 라는 주제로 GopherCon 2023 에서 발표한 이야기입니다.]]></description>

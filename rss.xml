@@ -4,9 +4,18 @@
         <description><![CDATA[에어브릿지를 만드는 개발자들의 경험과 기록을 꾸준히 기록하는 공간입니다]]></description>
         <link>https://engineering.ab180.co</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 26 Oct 2023 15:01:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Oct 2023 15:01:30 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright 2015- AB180 Inc. All rights reserved.]]></copyright>
         <managingEditor><![CDATA[engineering-blog@ab180.co]]></managingEditor>
+        <item>
+            <title><![CDATA[제안서: Luft 의 대형 쿼리 처리에 관하여]]></title>
+            <description><![CDATA[Luft 의 특수한 대형 쿼리 처리를 위한 제안서입니다.]]></description>
+            <link>https://engineering.ab180.co/stories/luft-query-optimizer-and-scale</link>
+            <guid isPermaLink="true">https://engineering.ab180.co/stories/luft-query-optimizer-and-scale</guid>
+            <dc:creator><![CDATA[박재완 (Jaewan Park) (https://github.com/hueypark)]]></dc:creator>
+            <pubDate>Thu, 12 Oct 2023 15:00:00 GMT</pubDate>
+            <enclosure url="https://oopy.lazyrockets.com/api/v2/notion/image?src=https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F56af06bd-af23-41ed-9eae-5faeee5a75ac%2Fe5548242-8b54-4617-af3a-5e2205e6333b%2FLuft.png&amp;blockId=95429e07-e1a9-41a4-be4c-10e8d4bad462&amp;width=2400" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Redis 사용량 타노스하기]]></title>
             <description><![CDATA[Elasticache의 메모리 사용량을 52%, 비용을 66% 절약하는 최적화 작업을 설명합니다. 최적화 대상을 찾은 과정부터 실제로 Elasticache 이주하는 전반적인 과정과, 더 최적화한다면 어떤 선택지가 있을지 소개합니다.]]></description>

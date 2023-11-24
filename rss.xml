@@ -4,9 +4,18 @@
         <description><![CDATA[에어브릿지를 만드는 개발자들의 경험과 기록을 꾸준히 기록하는 공간입니다]]></description>
         <link>https://engineering.ab180.co</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 23 Nov 2023 15:01:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Nov 2023 15:01:09 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright 2015- AB180 Inc. All rights reserved.]]></copyright>
         <managingEditor><![CDATA[engineering-blog@ab180.co]]></managingEditor>
+        <item>
+            <title><![CDATA[모니터링은 마틴 파울러처럼: Domain-Oriented Observability 도입기]]></title>
+            <description><![CDATA[빠르게 변하는 환경에서도 모니터링이 코드를 더럽히지 않게 만들기 위해 마틴 파울러 블로그에 소개된 Domain-Oriented Observability 를 도입한 이야기를 다룹니다.]]></description>
+            <link>https://engineering.ab180.co/stories/monitoring-like-martin-fowler-domain-oriented-observability</link>
+            <guid isPermaLink="true">https://engineering.ab180.co/stories/monitoring-like-martin-fowler-domain-oriented-observability</guid>
+            <dc:creator><![CDATA[신영민 (Youngmin Shin) (https://github.com/holyachon)]]></dc:creator>
+            <pubDate>Thu, 23 Nov 2023 15:00:00 GMT</pubDate>
+            <enclosure url="https://oopy.lazyrockets.com/api/v2/notion/image?src=https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F56af06bd-af23-41ed-9eae-5faeee5a75ac%2Fc7c7722e-9923-498f-ae20-06c9945cc186%2F231123_dev-blog_banner_monitoring-v2.png&amp;blockId=91aa96d9-3fa3-40d9-b928-e8c105467d04&amp;width=2400" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[제안서: Luft 의 대형 쿼리 처리에 관하여]]></title>
             <description><![CDATA[Luft 의 특수한 대형 쿼리 처리를 위한 제안서입니다.]]></description>

@@ -4,9 +4,18 @@
         <description><![CDATA[에어브릿지를 만드는 개발자들의 경험과 기록을 꾸준히 기록하는 공간입니다]]></description>
         <link>https://engineering.ab180.co</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 12 Feb 2024 15:01:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Feb 2024 15:01:03 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright 2015- AB180 Inc. All rights reserved.]]></copyright>
         <managingEditor><![CDATA[engineering-blog@ab180.co]]></managingEditor>
+        <item>
+            <title><![CDATA[Luft 성능 리포트 2:  더 많은 코호트에 대한 리텐션 집계]]></title>
+            <description><![CDATA[Luft 성능 리포트 2 입니다. 더 많은 코호트에 대한 리텐션 집계를 주 내용으로 다룹니다.]]></description>
+            <link>https://engineering.ab180.co/stories/luft-performance-report-2</link>
+            <guid isPermaLink="true">https://engineering.ab180.co/stories/luft-performance-report-2</guid>
+            <dc:creator><![CDATA[박재완 (Jaewan Park) (https://github.com/hueypark)]]></dc:creator>
+            <pubDate>Sun, 11 Feb 2024 15:00:00 GMT</pubDate>
+            <enclosure url="https://oopy.lazyrockets.com/api/v2/notion/image?src=https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F56af06bd-af23-41ed-9eae-5faeee5a75ac%2F48a7a9a9-c41c-4988-9f44-d6829b20972e%2Fluft.png&amp;blockId=831b9b63-4cd2-4540-92b5-fd8ed444df18&amp;width=2400" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[모니터링은 마틴 파울러처럼: Domain-Oriented Observability 도입기]]></title>
             <description><![CDATA[빠르게 변하는 환경에서도 모니터링이 코드를 더럽히지 않게 만들기 위해 마틴 파울러 블로그에 소개된 Domain-Oriented Observability 를 도입한 이야기를 다룹니다.]]></description>

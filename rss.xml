@@ -4,9 +4,18 @@
         <description><![CDATA[에어브릿지를 만드는 개발자들의 경험과 기록을 꾸준히 기록하는 공간입니다]]></description>
         <link>https://engineering.ab180.co</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 03 Mar 2024 15:01:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Mar 2024 15:01:07 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright 2015- AB180 Inc. All rights reserved.]]></copyright>
         <managingEditor><![CDATA[engineering-blog@ab180.co]]></managingEditor>
+        <item>
+            <title><![CDATA[동일한 비용으로 리포트 요청 10배 처리하기]]></title>
+            <description><![CDATA[늘어난 Report 요청으로 인해 증가했던 비용을 줄이기 위해 개선했던 내용을 공유합니다.]]></description>
+            <link>https://engineering.ab180.co/stories/improve-performance-airbridge-report-worker</link>
+            <guid isPermaLink="true">https://engineering.ab180.co/stories/improve-performance-airbridge-report-worker</guid>
+            <dc:creator><![CDATA[최주호 (Juho Choi) (https://github.com/oolso)]]></dc:creator>
+            <pubDate>Sun, 03 Mar 2024 15:00:00 GMT</pubDate>
+            <enclosure url="https://oopy.lazyrockets.com/api/v2/notion/image?src=https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F56af06bd-af23-41ed-9eae-5faeee5a75ac%2F335069bd-9600-4389-bc07-69cb77a891a3%2Fimprove-performance-airbridge-report-worker.png&amp;blockId=6eea0106-4289-4560-8190-358021058649&amp;width=2400" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Luft 성능 리포트 2:  더 많은 코호트에 대한 리텐션 집계]]></title>
             <description><![CDATA[Luft 성능 리포트 2 입니다. 더 많은 코호트에 대한 리텐션 집계를 주 내용으로 다룹니다.]]></description>

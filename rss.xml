@@ -4,7 +4,7 @@
         <description><![CDATA[에어브릿지를 만드는 개발자들의 경험과 기록을 꾸준히 기록하는 공간입니다]]></description>
         <link>https://engineering.ab180.co</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 20 Jun 2024 15:01:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Jun 2024 15:01:21 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright 2015- AB180 Inc. All rights reserved.]]></copyright>
         <managingEditor><![CDATA[engineering-blog@ab180.co]]></managingEditor>
         <item>
@@ -251,7 +251,7 @@
             <enclosure url="https://oopy.lazyrockets.com/api/v2/notion/image?src=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F75742074-34be-4f07-b8bc-e4d73409e998%2FArtboard_Copy_67.png&amp;blockId=63ce047c-0056-4fd9-a56f-28d4fd78b7d0&amp;width=2400" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[Athena로 CloudWatch Logs query 하기]]></title>
+            <title><![CDATA[Athena로 CloudWatch Logs query 하기 - AB180 엔지니어링 베이스 | 기술블로그]]></title>
             <description><![CDATA[파편화된 CloudWatch Logs를 Athena로 모아서 쉽게 쿼리하기]]></description>
             <link>https://engineering.ab180.co/stories/athena-cloudwatch-logs-query</link>
             <guid isPermaLink="true">https://engineering.ab180.co/stories/athena-cloudwatch-logs-query</guid>
@@ -314,7 +314,7 @@
             <enclosure url="https://oopy.lazyrockets.com/api/v2/notion/image?src=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F215aef57-aeb4-4752-97ab-0fe556aab146%2FArtboard_Copy_58.jpg&amp;blockId=88818560-d5a1-4003-8a30-a81791c31dbc&amp;width=2400" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Amazon EKS 위에 Kiam 셋업하기]]></title>
+            <title><![CDATA[Amazon EKS 위에 Kiam 셋업하기 - AB180 엔지니어링 베이스 | 기술블로그]]></title>
             <description><![CDATA[Kubernates에 Pod 기반의 IAM Role 접근 제어 통합하기]]></description>
             <link>https://engineering.ab180.co/stories/kiam-on-eks</link>
             <guid isPermaLink="true">https://engineering.ab180.co/stories/kiam-on-eks</guid>

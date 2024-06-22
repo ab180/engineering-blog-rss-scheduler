@@ -4,7 +4,7 @@
         <description><![CDATA[에어브릿지를 만드는 개발자들의 경험과 기록을 꾸준히 기록하는 공간입니다]]></description>
         <link>https://engineering.ab180.co</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 21 Jun 2024 15:01:21 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Jun 2024 15:00:58 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright 2015- AB180 Inc. All rights reserved.]]></copyright>
         <managingEditor><![CDATA[engineering-blog@ab180.co]]></managingEditor>
         <item>
@@ -242,7 +242,7 @@
             <enclosure url="https://oopy.lazyrockets.com/api/v2/notion/image?src=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fed7d44ec-08e0-4fc8-9d0f-4c3b2871e0b5%2FFrame_141.jpg&amp;blockId=16bde61f-0bde-4cc4-9f6b-8ed4cd42f0fd&amp;width=2400" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[ConsoleMe: 스타트업에서 AWS IAM 권한 관리 잘 하는 법]]></title>
+            <title><![CDATA[ConsoleMe: 스타트업에서 AWS IAM 권한 관리 잘 하는 법 - AB180 엔지니어링 베이스 | 기술블로그]]></title>
             <description><![CDATA[ConsoleMe를 도입해 AWS의 IAM 권한을 쉽게 관리하게 된 이야기를 공유합니다]]></description>
             <link>https://engineering.ab180.co/stories/iam-management-consoleme</link>
             <guid isPermaLink="true">https://engineering.ab180.co/stories/iam-management-consoleme</guid>
@@ -260,7 +260,7 @@
             <enclosure url="https://oopy.lazyrockets.com/api/v2/notion/image?src=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F986ca979-cc46-4396-83ad-c20ec6e2d052%2FFrame_132.jpg&amp;blockId=d3e19f49-133c-4d25-9cec-eefa16d2dd40&amp;width=2400" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Python x ARM: Graviton2 실전 도입기]]></title>
+            <title><![CDATA[Python x ARM: Graviton2 실전 도입기 - AB180 엔지니어링 베이스 | 기술블로그]]></title>
             <description><![CDATA[Python 애플리케이션을 ARM으로 옮기며 겪은 문제와 해결책을 공유합니다]]></description>
             <link>https://engineering.ab180.co/stories/migrating-python-application-to-arm</link>
             <guid isPermaLink="true">https://engineering.ab180.co/stories/migrating-python-application-to-arm</guid>
@@ -269,7 +269,7 @@
             <enclosure url="https://oopy.lazyrockets.com/api/v2/notion/image?src=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F185707f7-3859-47d1-82d3-91e95af7ae54%2FFrame_130.jpg&amp;blockId=46e84703-1715-4344-920d-da0aff1a61c2&amp;width=2400" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Kafka Lag 없는 실시간 데이터 파이프라인을 위한 아키텍처 개선기]]></title>
+            <title><![CDATA[Kafka Lag 없는 실시간 데이터 파이프라인을 위한 아키텍처 개선기 - AB180 엔지니어링 베이스 | 기술블로그]]></title>
             <description><![CDATA[실시간으로 대용량 데이터를 효율적으로 처리할 수 있는 아키텍처를 만든 과정을 공유합니다]]></description>
             <link>https://engineering.ab180.co/stories/kafka-consumer-proxy</link>
             <guid isPermaLink="true">https://engineering.ab180.co/stories/kafka-consumer-proxy</guid>
@@ -278,7 +278,7 @@
             <enclosure url="https://oopy.lazyrockets.com/api/v2/notion/image?src=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fcf122dc8-8aeb-4d7a-9fed-eb4aedd25a60%2FFrame_129-min.jpg&amp;blockId=d5395849-04ef-4119-ba9f-27f426c4e2dc&amp;width=2400" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Effective Jinja template 리팩토링과 테스트 - 1편]]></title>
+            <title><![CDATA[Effective Jinja template 리팩토링과 테스트 - 1편 - AB180 엔지니어링 베이스 | 기술블로그]]></title>
             <description><![CDATA[야생의 Jinja Template를 리팩토링 하기]]></description>
             <link>https://engineering.ab180.co/stories/effective-jinja-template-1</link>
             <guid isPermaLink="true">https://engineering.ab180.co/stories/effective-jinja-template-1</guid>
@@ -287,7 +287,7 @@
             <enclosure url="https://oopy.lazyrockets.com/api/v2/notion/image?src=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F6170b20d-eeeb-4a15-9487-42e3adc5f12e%2FFrame_128.png&amp;blockId=0de8a65b-09ff-4a04-bb5e-d4a3e195e63a&amp;width=2400" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[AWS Chatbot을 이용한 Slack alert, 근데 이제 PagerDuty와 Terraform을 곁들인]]></title>
+            <title><![CDATA[AWS Chatbot을 이용한 Slack alert, 근데 이제 PagerDuty와 Terraform을 곁들인 - AB180 엔지니어링 베이스 | 기술블로그]]></title>
             <description><![CDATA[AWS Chatbot과 TerraForm으로 손쉽게 Alert 설정하기]]></description>
             <link>https://engineering.ab180.co/stories/aws-alert-iac</link>
             <guid isPermaLink="true">https://engineering.ab180.co/stories/aws-alert-iac</guid>
@@ -296,7 +296,7 @@
             <enclosure url="https://oopy.lazyrockets.com/api/v2/notion/image?src=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Ff7bb2f51-c06f-49dd-8f9b-30804911f3e9%2FFrame_127.png&amp;blockId=721e85e2-0858-4cfe-9d04-467a158aef7c&amp;width=2400" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[Luft: 유저 행동 분석에 최적화된 OLAP 데이터베이스]]></title>
+            <title><![CDATA[Luft: 유저 행동 분석에 최적화된 OLAP 데이터베이스 - AB180 엔지니어링 베이스 | 기술블로그]]></title>
             <description><![CDATA[에어브릿지가 직접 개발한 OLAP DB, Luft에 대해 소개합니다]]></description>
             <link>https://engineering.ab180.co/stories/introducing-luft</link>
             <guid isPermaLink="true">https://engineering.ab180.co/stories/introducing-luft</guid>
@@ -305,7 +305,7 @@
             <enclosure url="https://oopy.lazyrockets.com/api/v2/notion/image?src=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F4abe1745-ba5b-4a64-a32d-1a03c400218b%2F62036edf712bc98dd3f70700_60ed41b5f2aed6f6389dc7b6_Luft.png&amp;blockId=67710760-aef1-4ac0-a0b6-d86bbfe4abaa&amp;width=2400" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[어떤 개발자의 회사 홍보 고군분투기]]></title>
+            <title><![CDATA[어떤 개발자의 회사 홍보 고군분투기 - AB180 엔지니어링 베이스 | 기술블로그]]></title>
             <description><![CDATA[한 회사의 문화와 성장을 언어로서 정리하며]]></description>
             <link>https://engineering.ab180.co/stories/let-people-know-about-our-company</link>
             <guid isPermaLink="true">https://engineering.ab180.co/stories/let-people-know-about-our-company</guid>

@@ -4,9 +4,18 @@
         <description><![CDATA[에어브릿지를 만드는 개발자들의 경험과 기록을 꾸준히 기록하는 공간입니다]]></description>
         <link>https://engineering.ab180.co</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 17 Dec 2024 15:01:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Dec 2024 15:01:27 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright 2015- AB180 Inc. All rights reserved.]]></copyright>
         <managingEditor><![CDATA[engineering-blog@ab180.co]]></managingEditor>
+        <item>
+            <title><![CDATA[Github Ops 로 Mono Repo 배포를 더욱 쉽게]]></title>
+            <description><![CDATA[github의 기능을 이용하여 monorepo의 다양한 컴포넌트를 배포하는 방법을 다룹니다]]></description>
+            <link>https://engineering.ab180.co/stories/mono-repo-github-ops</link>
+            <guid isPermaLink="true">https://engineering.ab180.co/stories/mono-repo-github-ops</guid>
+            <dc:creator><![CDATA[김창규 (Changkyu Kim) (https://github.com/glenn-kim)]]></dc:creator>
+            <pubDate>Tue, 17 Dec 2024 15:00:00 GMT</pubDate>
+            <enclosure url="https://oopy.lazyrockets.com/api/v2/notion/image?src=https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F56af06bd-af23-41ed-9eae-5faeee5a75ac%2Fb3417854-7dfa-47be-aa80-baddfc94cbe2%2Fimage_(12).png&amp;blockId=160a69a8-2507-8017-9cbf-fe65cbacf8f8&amp;width=2400" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[AWS Lambda 를 활용한 Luft 스케일링]]></title>
             <description><![CDATA[AWS Lambda 를 활용해 Luft 를 효율적으로 스케일링하는 과정에 대해 이야기합니다.]]></description>

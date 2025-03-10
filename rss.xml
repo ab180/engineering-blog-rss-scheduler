@@ -4,12 +4,12 @@
         <description><![CDATA[에어브릿지를 만드는 개발자들의 경험과 기록을 꾸준히 기록하는 공간입니다]]></description>
         <link>https://engineering.ab180.co</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 09 Mar 2025 15:01:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Mar 2025 15:01:20 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright 2015- AB180 Inc. All rights reserved.]]></copyright>
         <managingEditor><![CDATA[engineering-blog@ab180.co]]></managingEditor>
         <item>
             <title><![CDATA[Luft's Road to Elasticity - Part 1: From Shared Nothing to Shared Storage]]></title>
-            <description><![CDATA[자체 제작 데이터베이스인 Luft의 elasticity를 개선하기 위해, shared nothing 아키텍처에서 shared storage 아키텍처로 개선한 경험을 공유합니다.]]></description>
+            <description><![CDATA[자체 제작 데이터베이스인 Luft의 탄력성(elasticity)을 개선하기 위해, Shared Nothing 아키텍처에서 Shared Storage 아키텍처로 전환한 경험을 공유합니다.]]></description>
             <link>https://engineering.ab180.co/stories/luft-shared-storage</link>
             <guid isPermaLink="true">https://engineering.ab180.co/stories/luft-shared-storage</guid>
             <dc:creator><![CDATA[김건 (Geon Kim) (https://github.com/KimMachineGun)]]></dc:creator>

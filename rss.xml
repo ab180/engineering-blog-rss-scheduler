@@ -4,9 +4,18 @@
         <description><![CDATA[에어브릿지를 만드는 개발자들의 경험과 기록을 꾸준히 기록하는 공간입니다]]></description>
         <link>https://engineering.ab180.co</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 16 Mar 2025 15:01:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Mar 2025 15:01:24 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright 2015- AB180 Inc. All rights reserved.]]></copyright>
         <managingEditor><![CDATA[engineering-blog@ab180.co]]></managingEditor>
+        <item>
+            <title><![CDATA[Luft's Road to Elasticity - Part 2: Auto-Scaling with Query History]]></title>
+            <description><![CDATA[자체 제작 데이터베이스인 Luft의 탄력성(elasticity)을 개선하기 위해, 쿼리 히스토리를 활용한 비용 기반 오토스케일러를 구현한 경험을 공유합니다.]]></description>
+            <link>https://engineering.ab180.co/stories/luft-autoscaling-with-query-history</link>
+            <guid isPermaLink="true">https://engineering.ab180.co/stories/luft-autoscaling-with-query-history</guid>
+            <dc:creator><![CDATA[김건 (Geon Kim) (https://github.com/KimMachineGun)]]></dc:creator>
+            <pubDate>Sun, 16 Mar 2025 15:00:00 GMT</pubDate>
+            <enclosure url="https://oopy.lazyrockets.com/api/v2/notion/image?src=attachment%3A7b9d4d93-e1ec-4cec-aaf4-6014a070d219%3Adev-blog_luft.png&amp;blockId=1b2a69a8-2507-806e-801c-fc3c914f2b29&amp;width=2400" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Luft's Road to Elasticity - Part 1: From Shared Nothing to Shared Storage]]></title>
             <description><![CDATA[자체 제작 데이터베이스인 Luft의 탄력성(elasticity)을 개선하기 위해, Shared Nothing 아키텍처에서 Shared Storage 아키텍처로 전환한 경험을 공유합니다.]]></description>

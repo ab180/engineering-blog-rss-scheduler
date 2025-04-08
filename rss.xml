@@ -4,9 +4,27 @@
         <description><![CDATA[에어브릿지를 만드는 개발자들의 경험과 기록을 꾸준히 기록하는 공간입니다]]></description>
         <link>https://engineering.ab180.co</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 07 Apr 2025 15:01:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Apr 2025 15:01:22 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright 2015- AB180 Inc. All rights reserved.]]></copyright>
         <managingEditor><![CDATA[engineering-blog@ab180.co]]></managingEditor>
+        <item>
+            <title><![CDATA[좋은 개발자로 가는 길목에서 – AB180에서의 성장기 (AB180 인턴 후기)]]></title>
+            <description><![CDATA[AB180의 비용 연동 시스템을 개선하며 대규모 데이터 처리, 테스트 자동화, 협업 문화를 경험한 인턴십 회고입니다.]]></description>
+            <link>https://engineering.ab180.co/stories/ab180-internship-retrospective</link>
+            <guid isPermaLink="true">https://engineering.ab180.co/stories/ab180-internship-retrospective</guid>
+            <dc:creator><![CDATA[홍혁준 (Hyukjoon Hong) (https://github.com/hong-sile)]]></dc:creator>
+            <pubDate>Mon, 07 Apr 2025 15:00:00 GMT</pubDate>
+            <enclosure url="https://oopy.lazyrockets.com/api/v2/notion/image?src=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F99b4bca1-fc27-4c34-96e4-225fc1fb33d6%2FArtboard_Copy_602.jpg&amp;blockId=1c5a69a8-2507-801c-8858-dddc85a82ad0&amp;width=2400" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[주니어 개발자의 시작: AB180에서 배운 엔지니어링 문화 (AB180 인턴 후기)]]></title>
+            <description><![CDATA[AB180에서 인턴으로 시작해 정규직 개발자가 되기까지의 여정을 회고합니다. 실무 경험, 기술 성장, 설계와 협업 문화를 중심으로 한 기록입니다.]]></description>
+            <link>https://engineering.ab180.co/stories/backend-growth-in-ab180</link>
+            <guid isPermaLink="true">https://engineering.ab180.co/stories/backend-growth-in-ab180</guid>
+            <dc:creator><![CDATA[박예준 (Yejun Park) (https://github.com/jun02160)]]></dc:creator>
+            <pubDate>Mon, 07 Apr 2025 15:00:00 GMT</pubDate>
+            <enclosure url="https://oopy.lazyrockets.com/api/v2/notion/image?src=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F99b4bca1-fc27-4c34-96e4-225fc1fb33d6%2FArtboard_Copy_602.jpg&amp;blockId=1c5a69a8-2507-80db-a82d-debd3fb4c18a&amp;width=2400" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Luft's Road to Elasticity - Part 2: Auto-Scaling with Query History]]></title>
             <description><![CDATA[자체 제작 데이터베이스인 Luft의 탄력성(elasticity)을 개선하기 위해, 쿼리 히스토리를 활용한 비용 기반 오토스케일러를 구현한 경험을 공유합니다.]]></description>

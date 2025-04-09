@@ -4,7 +4,7 @@
         <description><![CDATA[에어브릿지를 만드는 개발자들의 경험과 기록을 꾸준히 기록하는 공간입니다]]></description>
         <link>https://engineering.ab180.co</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 08 Apr 2025 15:01:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Apr 2025 15:01:52 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright 2015- AB180 Inc. All rights reserved.]]></copyright>
         <managingEditor><![CDATA[engineering-blog@ab180.co]]></managingEditor>
         <item>
@@ -14,7 +14,7 @@
             <guid isPermaLink="true">https://engineering.ab180.co/stories/ab180-internship-retrospective</guid>
             <dc:creator><![CDATA[홍혁준 (Hyukjoon Hong) (https://github.com/hong-sile)]]></dc:creator>
             <pubDate>Mon, 07 Apr 2025 15:00:00 GMT</pubDate>
-            <enclosure url="https://oopy.lazyrockets.com/api/v2/notion/image?src=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F99b4bca1-fc27-4c34-96e4-225fc1fb33d6%2FArtboard_Copy_602.jpg&amp;blockId=1c5a69a8-2507-801c-8858-dddc85a82ad0&amp;width=2400" length="0" type="image/jpg"/>
+            <enclosure url="https://oopy.lazyrockets.com/api/v2/notion/image?src=attachment%3A4e9e06fc-5483-447c-9331-d381932633d9%3Agraphic_MMP.png&amp;blockId=1c5a69a8-2507-801c-8858-dddc85a82ad0&amp;width=2400" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[주니어 개발자의 시작: AB180에서 배운 엔지니어링 문화 (AB180 인턴 후기)]]></title>
@@ -23,7 +23,7 @@
             <guid isPermaLink="true">https://engineering.ab180.co/stories/backend-growth-in-ab180</guid>
             <dc:creator><![CDATA[박예준 (Yejun Park) (https://github.com/jun02160)]]></dc:creator>
             <pubDate>Mon, 07 Apr 2025 15:00:00 GMT</pubDate>
-            <enclosure url="https://oopy.lazyrockets.com/api/v2/notion/image?src=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F99b4bca1-fc27-4c34-96e4-225fc1fb33d6%2FArtboard_Copy_602.jpg&amp;blockId=1c5a69a8-2507-80db-a82d-debd3fb4c18a&amp;width=2400" length="0" type="image/jpg"/>
+            <enclosure url="https://oopy.lazyrockets.com/api/v2/notion/image?src=attachment%3A1e6f99c6-6c45-4462-a502-99d01086b8f8%3A5.jpg&amp;blockId=1c5a69a8-2507-80db-a82d-debd3fb4c18a&amp;width=2400" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Luft's Road to Elasticity - Part 2: Auto-Scaling with Query History]]></title>

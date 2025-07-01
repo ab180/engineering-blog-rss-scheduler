@@ -4,9 +4,18 @@
         <description><![CDATA[에어브릿지를 만드는 개발자들의 경험과 기록을 꾸준히 기록하는 공간입니다]]></description>
         <link>https://engineering.ab180.co</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 30 Jun 2025 15:01:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Jul 2025 15:01:29 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright 2015- AB180 Inc. All rights reserved.]]></copyright>
         <managingEditor><![CDATA[engineering-blog@ab180.co]]></managingEditor>
+        <item>
+            <title><![CDATA[AB180 개발팀의 AWS 비용 관리 여정: 청구서 확인부터 Fin Ops 문화까지]]></title>
+            <description><![CDATA[마테크 스타트업 AB180의 AWS 비용 관리 노하우를 공유합니다. 청구서 확인부터 시작해 태그 전략, 자동화된 대시보드, 정기적인 FinOps 미팅을 통해 비용 관리 문화를 만들어온 과정과 5가지 핵심 교훈을 확인해보세요.]]></description>
+            <link>https://engineering.ab180.co/stories/ab180-journey-of-aws-fin-ops</link>
+            <guid isPermaLink="true">https://engineering.ab180.co/stories/ab180-journey-of-aws-fin-ops</guid>
+            <dc:creator><![CDATA[정주홍 (Juhong Jung) (https://github.com/toughrogrammer)]]></dc:creator>
+            <pubDate>Mon, 30 Jun 2025 15:00:00 GMT</pubDate>
+            <enclosure url="https://oopy.lazyrockets.com/api/v2/notion/image?src=attachment%3A94d2de91-5b89-4f5e-b897-e60380170058%3AGemini_Generated_Image_c0w301c0w301c0w3.jpeg&amp;blockId=223a69a8-2507-8058-b4a1-f75d17911f62&amp;width=2400" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[좋은 개발자로 가는 길목에서 – AB180에서의 성장기 (AB180 인턴 후기)]]></title>
             <description><![CDATA[AB180의 비용 연동 시스템을 개선하며 대규모 데이터 처리, 테스트 자동화, 협업 문화를 경험한 인턴십 회고입니다.]]></description>

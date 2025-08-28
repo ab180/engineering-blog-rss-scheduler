@@ -4,9 +4,18 @@
         <description><![CDATA[에어브릿지를 만드는 개발자들의 경험과 기록을 꾸준히 기록하는 공간입니다]]></description>
         <link>https://engineering.ab180.co</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 27 Aug 2025 15:01:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Aug 2025 15:01:08 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright 2015- AB180 Inc. All rights reserved.]]></copyright>
         <managingEditor><![CDATA[engineering-blog@ab180.co]]></managingEditor>
+        <item>
+            <title><![CDATA[인증 서버 응답 속도 최적화]]></title>
+            <description><![CDATA[인증 서버의 간헐적인 느린 응답 문제를 해결했던 과정을 설명합니다.]]></description>
+            <link>https://engineering.ab180.co/stories/auth-api-optimize-slow-response</link>
+            <guid isPermaLink="true">https://engineering.ab180.co/stories/auth-api-optimize-slow-response</guid>
+            <dc:creator><![CDATA[박예준 (Yejun Park) (https://github.com/jun02160)]]></dc:creator>
+            <pubDate>Tue, 26 Aug 2025 15:00:00 GMT</pubDate>
+            <enclosure url="https://oopy.lazyrockets.com/api/v2/notion/image?src=attachment%3Ab7a42946-e8bd-4586-9185-3d3f201bae00%3Aimage_(1).png&amp;blockId=25ca69a8-2507-8026-827d-dfccb5fcbf58&amp;width=2400" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[AB180 개발팀의 AWS 비용 관리 여정: 청구서 확인부터 Fin Ops 문화까지]]></title>
             <description><![CDATA[마테크 스타트업 AB180의 AWS 비용 관리 노하우를 공유합니다. 청구서 확인부터 시작해 태그 전략, 자동화된 대시보드, 정기적인 FinOps 미팅을 통해 비용 관리 문화를 만들어온 과정과 5가지 핵심 교훈을 확인해보세요.]]></description>

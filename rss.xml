@@ -4,9 +4,18 @@
         <description><![CDATA[에어브릿지를 만드는 개발자들의 경험과 기록을 꾸준히 기록하는 공간입니다]]></description>
         <link>https://engineering.ab180.co</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 19 Oct 2025 15:00:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Oct 2025 15:01:02 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright 2015- AB180 Inc. All rights reserved.]]></copyright>
         <managingEditor><![CDATA[engineering-blog@ab180.co]]></managingEditor>
+        <item>
+            <title><![CDATA[AI 에이전트와 함께하는 개발]]></title>
+            <description><![CDATA[AI 에이전트와 함께 개발한 경험에 대해 이야기합니다.]]></description>
+            <link>https://engineering.ab180.co/stories/development-with-ai-agent</link>
+            <guid isPermaLink="true">https://engineering.ab180.co/stories/development-with-ai-agent</guid>
+            <dc:creator><![CDATA[박재완 (Jaewan Park) (https://github.com/hueypark)]]></dc:creator>
+            <pubDate>Tue, 07 Oct 2025 15:00:00 GMT</pubDate>
+            <enclosure url="https://oopy.lazyrockets.com/api/v2/notion/image?src=attachment%3A0767022c-dd8f-44a7-aeb4-6946549a44d7%3Aai.png&amp;blockId=286a69a8-2507-8004-8396-c9f70b80d237&amp;width=2400" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[인증 서버 응답 속도 최적화]]></title>
             <description><![CDATA[인증 서버의 간헐적인 느린 응답 문제를 해결했던 과정을 설명합니다.]]></description>

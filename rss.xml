@@ -4,7 +4,7 @@
         <description><![CDATA[에어브릿지를 만드는 개발자들의 경험과 기록을 꾸준히 기록하는 공간입니다]]></description>
         <link>https://engineering.ab180.co</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 10 Jan 2026 15:01:03 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Jan 2026 15:01:05 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright 2015- AB180 Inc. All rights reserved.]]></copyright>
         <managingEditor><![CDATA[engineering-blog@ab180.co]]></managingEditor>
         <item>
@@ -206,6 +206,15 @@
             <enclosure url="https://oopy.lazyrockets.com/api/v2/notion/image?src=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fe7e3d41b-4681-400b-91f2-e2ba3a5c75dd%2Fairbridge-streams.png&amp;blockId=9a2d4828-318e-4b36-a606-37b3ad416490&amp;width=2400" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[자동화 테스트로 수 억 대의 디바이스 환경에서 살아남는 SDK 완성하기 - QA Engineer 인터뷰]]></title>
+            <description><![CDATA[자동화 테스트 환경 구축을 통해 Airbridge SDK가 수백 가지 서비스, 수억 개의 디바이스 환경에서도 안정적일 수 있도록 품직을 책임지는 QA Engineer의 커리어 이야기를 들어보았습니다.]]></description>
+            <link>https://engineering.ab180.co/stories/qa-engineer-interview</link>
+            <guid isPermaLink="true">https://engineering.ab180.co/stories/qa-engineer-interview</guid>
+            <dc:creator><![CDATA[최소은(Soeun Choi) ()]]></dc:creator>
+            <pubDate>Wed, 10 Aug 2022 15:00:00 GMT</pubDate>
+            <enclosure url="https://static.airbridge.io/images/2022_engineering_base/thumbnail/qa-engineer-interview.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[Player Unknown’s Bug: 원인 모를 문제를 기록하면 성장할 수 있나요?]]></title>
             <description><![CDATA[문제를 기록하고 공유했더니 정보 공유 문화가 팀에 정착하기 시작했습니다.]]></description>
             <link>https://engineering.ab180.co/stories/player-unknowns-bug</link>
@@ -392,12 +401,6 @@
             <guid isPermaLink="true">https://engineering.ab180.co/stories/airpage-csr</guid>
             <dc:creator><![CDATA[최수범 (Subeom Choi) (https://github.com/0xwof)]]></dc:creator>
             <enclosure url="https://oopy.lazyrockets.com/api/v2/notion/image?src=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F99b4bca1-fc27-4c34-96e4-225fc1fb33d6%2FArtboard_Copy_602.jpg&amp;blockId=0b600ca7-34a3-463c-beea-c39666ff0048&amp;width=2400" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <link>https://engineering.ab180.co/stories/qa-engineer-interview</link>
-            <guid isPermaLink="true">https://engineering.ab180.co/stories/qa-engineer-interview</guid>
-            <dc:creator><![CDATA[ ()]]></dc:creator>
         </item>
     </channel>
 </rss>

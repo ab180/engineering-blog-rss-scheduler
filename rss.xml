@@ -4,7 +4,7 @@
         <description><![CDATA[에어브릿지를 만드는 개발자들의 경험과 기록을 꾸준히 기록하는 공간입니다]]></description>
         <link>https://engineering.ab180.co</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 06 Feb 2026 15:11:25 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Feb 2026 15:03:18 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright 2015- AB180 Inc. All rights reserved.]]></copyright>
         <managingEditor><![CDATA[engineering-blog@ab180.co]]></managingEditor>
         <item>
@@ -332,13 +332,12 @@
             <enclosure url="https://oopy.lazyrockets.com/api/v2/notion/image?src=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F986ca979-cc46-4396-83ad-c20ec6e2d052%2FFrame_132.jpg&amp;blockId=d3e19f49-133c-4d25-9cec-eefa16d2dd40&amp;width=2400" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Python x ARM: Graviton2 실전 도입기 - AB180 엔지니어링 베이스 | 기술블로그]]></title>
-            <description><![CDATA[Python 애플리케이션을 ARM으로 옮기며 겪은 문제와 해결책을 공유합니다]]></description>
+            <title><![CDATA[engineering.ab180.co]]></title>
             <link>https://engineering.ab180.co/stories/migrating-python-application-to-arm</link>
             <guid isPermaLink="true">https://engineering.ab180.co/stories/migrating-python-application-to-arm</guid>
-            <dc:creator><![CDATA[양민석 (Frank Yang) (https://github.com/puilp0502)]]></dc:creator>
+            <dc:creator><![CDATA[ ()]]></dc:creator>
             <pubDate>Sun, 28 Nov 2021 15:00:00 GMT</pubDate>
-            <enclosure url="https://oopy.lazyrockets.com/api/v2/notion/image?src=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F185707f7-3859-47d1-82d3-91e95af7ae54%2FFrame_130.jpg&amp;blockId=46e84703-1715-4344-920d-da0aff1a61c2&amp;width=2400" length="0" type="image/jpg"/>
+            <enclosure url="https://oopy.lazyrockets.com/api/rest/cdn/image/dac0dace-14c8-4b48-8011-f2116b25bd62.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[Kafka Lag 없는 실시간 데이터 파이프라인을 위한 아키텍처 개선기 - AB180 엔지니어링 베이스 | 기술블로그]]></title>

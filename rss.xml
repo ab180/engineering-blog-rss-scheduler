@@ -4,9 +4,18 @@
         <description><![CDATA[에어브릿지를 만드는 개발자들의 경험과 기록을 꾸준히 기록하는 공간입니다]]></description>
         <link>https://engineering.ab180.co</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 08 Jun 2026 16:21:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Jun 2026 15:58:03 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright 2015- AB180 Inc. All rights reserved.]]></copyright>
         <managingEditor><![CDATA[engineering-blog@ab180.co]]></managingEditor>
+        <item>
+            <title><![CDATA[사내 에이전트 극한까지 사용하기]]></title>
+            <description><![CDATA[사내 에이전트를 만든 경험을 공유합니다.]]></description>
+            <link>https://engineering.ab180.co/stories/maximizing-ai-agent-usage</link>
+            <guid isPermaLink="true">https://engineering.ab180.co/stories/maximizing-ai-agent-usage</guid>
+            <dc:creator><![CDATA[김준환 (Joonhwan Kim) (https://github.com/xncbf)]]></dc:creator>
+            <pubDate>Mon, 08 Jun 2026 15:00:00 GMT</pubDate>
+            <enclosure url="https://oopy.lazyrockets.com/api/v2/notion/image?src=attachment%3Acfe24bb8-6db4-4351-897b-8c105e206764%3AChatGPT_Image_2026%E1%84%82%E1%85%A7%E1%86%AB_6%E1%84%8B%E1%85%AF%E1%86%AF_9%E1%84%8B%E1%85%B5%E1%86%AF_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_02_26_55.png&amp;blockId=373a69a8-2507-8093-81bb-f4db8a026980&amp;width=2400" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[AI 에이전트와 함께하는 개발]]></title>
             <description><![CDATA[AI 에이전트와 함께 개발한 경험에 대해 이야기합니다.]]></description>

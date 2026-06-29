@@ -4,9 +4,18 @@
         <description><![CDATA[에어브릿지를 만드는 개발자들의 경험과 기록을 꾸준히 기록하는 공간입니다]]></description>
         <link>https://engineering.ab180.co</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 28 Jun 2026 15:25:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Jun 2026 16:15:48 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright 2015- AB180 Inc. All rights reserved.]]></copyright>
         <managingEditor><![CDATA[engineering-blog@ab180.co]]></managingEditor>
+        <item>
+            <title><![CDATA[Alert 시스템을 표준화하고 IaC로 운영하기]]></title>
+            <description><![CDATA[Airbridge Alert 시스템을 표준화하고 IaC로 운영하며, Alert의 작성부터 전달, 대응, 관측까지 개선해 온 과정을 소개합니다.]]></description>
+            <link>https://engineering.ab180.co/stories/standardizing-alert-system-with-iac</link>
+            <guid isPermaLink="true">https://engineering.ab180.co/stories/standardizing-alert-system-with-iac</guid>
+            <dc:creator><![CDATA[정동호 (Dongho Jung) (https://github.com/dongho-jung)]]></dc:creator>
+            <pubDate>Sun, 28 Jun 2026 15:00:00 GMT</pubDate>
+            <enclosure url="https://oopy.lazyrockets.com/api/v2/notion/image?src=attachment%3A1070f0f4-da0e-48a8-8948-02711a8b50f3%3Aimage_(8).png&amp;blockId=38ea69a8-2507-80df-abc3-e7433d4757dc&amp;width=2400" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[사내 AI 에이전트, 전사가 매주 쓰는 인프라로 만들기]]></title>
             <description><![CDATA[사내 에이전트를 만든 경험을 공유합니다.]]></description>

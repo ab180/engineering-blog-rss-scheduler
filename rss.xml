@@ -4,9 +4,18 @@
         <description><![CDATA[에어브릿지를 만드는 개발자들의 경험과 기록을 꾸준히 기록하는 공간입니다]]></description>
         <link>https://engineering.ab180.co</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 13 Jul 2026 15:51:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jul 2026 15:27:20 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright 2015- AB180 Inc. All rights reserved.]]></copyright>
         <managingEditor><![CDATA[engineering-blog@ab180.co]]></managingEditor>
+        <item>
+            <title><![CDATA[순서대로, 한 번만, 빠르게]]></title>
+            <description><![CDATA[Airbridge가 Kafka 기반 이벤트 처리에서 순서 보장과 중복 없는 처리를 유지하면서 마이크로 배치 병목을 해소하고 처리 속도를 10배 높인 Differential 구조를 소개합니다.]]></description>
+            <link>https://engineering.ab180.co/stories/kafka-event-ordering-at-scale</link>
+            <guid isPermaLink="true">https://engineering.ab180.co/stories/kafka-event-ordering-at-scale</guid>
+            <dc:creator><![CDATA[김창규 (Changkyu Kim) (https://github.com/glenn-kim)]]></dc:creator>
+            <pubDate>Mon, 13 Jul 2026 15:00:00 GMT</pubDate>
+            <enclosure url="https://oopy.lazyrockets.com/api/v2/notion/image?src=attachment%3Ab689995d-bfc2-4baa-bd5e-26d2829832ef%3A%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2026-07-14_16.56.40.png&amp;blockId=398a69a8-2507-8064-8717-e1f47371b694&amp;width=2400" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Alert 시스템을 표준화하고 IaC로 운영하기]]></title>
             <description><![CDATA[Airbridge Alert 시스템을 표준화하고 IaC로 운영하며, Alert의 작성부터 전달, 대응, 관측까지 개선해 온 과정을 소개합니다.]]></description>

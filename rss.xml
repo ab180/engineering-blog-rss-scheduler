@@ -4,7 +4,7 @@
         <description><![CDATA[에어브릿지를 만드는 개발자들의 경험과 기록을 꾸준히 기록하는 공간입니다]]></description>
         <link>https://engineering.ab180.co</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 16 Aug 2026 15:02:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Aug 2026 15:06:19 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright 2015- AB180 Inc. All rights reserved.]]></copyright>
         <managingEditor><![CDATA[engineering-blog@ab180.co]]></managingEditor>
         <item>
@@ -23,7 +23,7 @@
             <guid isPermaLink="true">https://engineering.ab180.co/stories/standardizing-alert-system-with-iac</guid>
             <dc:creator><![CDATA[정동호 (Dongho Jung) (https://github.com/dongho-jung)]]></dc:creator>
             <pubDate>Sun, 28 Jun 2026 15:00:00 GMT</pubDate>
-            <enclosure url="https://oopy.lazyrockets.com/api/v2/notion/image?src=attachment%3A1070f0f4-da0e-48a8-8948-02711a8b50f3%3Aimage_(8).png&amp;blockId=38ea69a8-2507-80df-abc3-e7433d4757dc&amp;width=2400" length="0" type="image/png"/>
+            <enclosure url="https://oopy.lazyrockets.com/api/v2/notion/image?src=attachment%3A1070f0f4-da0e-48a8-8948-02711a8b50f3%3Aimage_%288%29.png&amp;blockId=38ea69a8-2507-80df-abc3-e7433d4757dc&amp;width=2400" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[사내 AI 에이전트, 전사가 매주 쓰는 인프라로 만들기]]></title>
@@ -50,7 +50,7 @@
             <guid isPermaLink="true">https://engineering.ab180.co/stories/auth-api-optimize-slow-response</guid>
             <dc:creator><![CDATA[박예준 (Yejun Park) (https://github.com/jun02160)]]></dc:creator>
             <pubDate>Tue, 26 Aug 2025 15:00:00 GMT</pubDate>
-            <enclosure url="https://oopy.lazyrockets.com/api/v2/notion/image?src=attachment%3Ab7a42946-e8bd-4586-9185-3d3f201bae00%3Aimage_(1).png&amp;blockId=25ca69a8-2507-8026-827d-dfccb5fcbf58&amp;width=2400" length="0" type="image/png"/>
+            <enclosure url="https://oopy.lazyrockets.com/api/v2/notion/image?src=attachment%3Ab7a42946-e8bd-4586-9185-3d3f201bae00%3Aimage_%281%29.png&amp;blockId=25ca69a8-2507-8026-827d-dfccb5fcbf58&amp;width=2400" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[AB180 개발팀의 AWS 비용 관리 여정: 청구서 확인부터 Fin Ops 문화까지]]></title>
@@ -104,7 +104,7 @@
             <guid isPermaLink="true">https://engineering.ab180.co/stories/mono-repo-github-ops</guid>
             <dc:creator><![CDATA[김창규 (Changkyu Kim) (https://github.com/glenn-kim)]]></dc:creator>
             <pubDate>Tue, 17 Dec 2024 15:00:00 GMT</pubDate>
-            <enclosure url="https://oopy.lazyrockets.com/api/v2/notion/image?src=https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F56af06bd-af23-41ed-9eae-5faeee5a75ac%2Fb3417854-7dfa-47be-aa80-baddfc94cbe2%2Fimage_(12).png&amp;blockId=160a69a8-2507-8017-9cbf-fe65cbacf8f8&amp;width=2400" length="0" type="image/png"/>
+            <enclosure url="https://oopy.lazyrockets.com/api/v2/notion/image?src=https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F56af06bd-af23-41ed-9eae-5faeee5a75ac%2Fb3417854-7dfa-47be-aa80-baddfc94cbe2%2Fimage_%2812%29.png&amp;blockId=160a69a8-2507-8017-9cbf-fe65cbacf8f8&amp;width=2400" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[AWS Lambda 를 활용한 Luft 스케일링]]></title>

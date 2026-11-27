@@ -4,9 +4,18 @@
         <description><![CDATA[에어브릿지를 만드는 개발자들의 경험과 기록을 꾸준히 기록하는 공간입니다]]></description>
         <link>https://engineering.ab180.co</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 26 Nov 2026 15:01:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Nov 2026 15:00:57 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright 2015- AB180 Inc. All rights reserved.]]></copyright>
         <managingEditor><![CDATA[engineering-blog@ab180.co]]></managingEditor>
+        <item>
+            <title><![CDATA[ScyllaDB 노드 교체 최적화]]></title>
+            <description><![CDATA[Airbridge의 ScyllaDB 노드 교체에서 같은 가용 영역의 사전 복사를 활용해 전송 비용을 줄이고, 기존 멤버로 복귀시켜 교체 시간까지 줄인 과정을 소개합니다.]]></description>
+            <link>https://engineering.ab180.co/stories/scylladb-node-replacement-optimization</link>
+            <guid isPermaLink="true">https://engineering.ab180.co/stories/scylladb-node-replacement-optimization</guid>
+            <dc:creator><![CDATA[Juhong Jung (https://github.com/toughrogrammer)]]></dc:creator>
+            <pubDate>Wed, 25 Nov 2026 15:00:00 GMT</pubDate>
+            <enclosure url="https://oopy.lazyrockets.com/api/rest/cdn/image/dac0dace-14c8-4b48-8011-f2116b25bd62.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[순서대로, 한 번만, 빠르게]]></title>
             <description><![CDATA[Airbridge가 Kafka 기반 이벤트 처리에서 순서 보장과 중복 없는 처리를 유지하면서 마이크로 배치 병목을 해소하고 처리 속도를 10배 높인 Differential 구조를 소개합니다.]]></description>
